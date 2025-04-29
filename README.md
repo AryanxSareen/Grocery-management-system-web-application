@@ -1,2 +1,2 @@
-# Grocery-management-system-web-application
-The Grocery Store Management Application is a group project by three members. It is a full-stack web app built with HTML, CSS, JS, Flask, and MySQL. It allows users to view products, manage inventory, place orders, and track them, offering a smooth, responsive, and interactive experience.
+# Grocery_Store_Management_Application
+A web app that help users make smart purchase of grocery items. A 3-tier application with HTML5/CSS3/JS in front-end, Python Flask Server as back-end, and MySQL as database. 
